@@ -1,1 +1,1 @@
-export const server = "http://localhost:3500";
+export const server = "https://3-w-eight.vercel.app";
